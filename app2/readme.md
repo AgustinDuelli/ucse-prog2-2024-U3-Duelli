@@ -11,5 +11,13 @@ http://localhost:4001/checker?url=app1&zone=America/Los_Angeles
 
 Resultado de pruebas:
 
-![image](https://github.com/AgustinDuelli/ucse-prog2-2024-U3-Duelli/assets/130614935/999c16c8-e48e-4e48-8136-b5e6f8eff027)
+- America, Los Angeles
+![image](https://github.com/AgustinDuelli/ucse-prog2-2024-U3-Duelli/assets/130614935/fae1837a-0677-429c-81cd-2ba5f182b808)
 
+- Africa, Accra
+
+![image](https://github.com/AgustinDuelli/ucse-prog2-2024-U3-Duelli/assets/130614935/985fe471-9b55-449b-9c05-ae649f5d7771)
+
+Asia, Famagusta
+
+![image](https://github.com/AgustinDuelli/ucse-prog2-2024-U3-Duelli/assets/130614935/19b067bf-f16d-4048-9006-5a02413748eb)
