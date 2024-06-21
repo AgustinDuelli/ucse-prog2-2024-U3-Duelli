@@ -7,7 +7,8 @@ Lista de zonas horarias del mundo para probar
 
 ## Ejemplo de la API (implementación en Docker)
 Utilizando la configuración de network específica, se puede pasar como url el nombre de servicio de docker para acceder luego al puerto 4000 de la app1.
-http://localhost:4001/checker?url=app1&zone=America/Los_Angeles
+
+- http://localhost:4001/checker?url=app1&zone=America/Los_Angeles
 
 Resultado de pruebas:
 
