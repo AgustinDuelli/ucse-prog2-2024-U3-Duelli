@@ -1,0 +1,22 @@
+## Docker compose for running both app1 and app2 images, app1 depends on app2
+version: '3.7'
+
+services:
+  app1:
+    image: app1
+    depends_on:
+      - app2
+    ports:
+      - "4000:4000"
+    networks:
+      - appNetU3
+  app2:
+    image: app2
+    ports:
+      - "4001:4001"
+    networks:
+      - appNetU3
+
+networks:
+  appNetU3:
+    external: false 
